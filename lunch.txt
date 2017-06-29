@@ -1,4 +1,6 @@
 Pizza
+pepperoni
+rocket salad
 
 orange juice
 water
